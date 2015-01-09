@@ -1005,3 +1005,1984 @@ Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" fo
 
 
 Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:40:56 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:48:02 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-4d59363e04226067e2475ccbd8e57a8c.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/application-77079be14da08d17a22bcab14f056e7d.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:03 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 55ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-4d59363e04226067e2475ccbd8e57a8c.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/application-77079be14da08d17a22bcab14f056e7d.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:48:31 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-4d59363e04226067e2475ccbd8e57a8c.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/application-77079be14da08d17a22bcab14f056e7d.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:02 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/custom-4d59363e04226067e2475ccbd8e57a8c.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/application-77079be14da08d17a22bcab14f056e7d.css?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:51:27 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-4d59363e04226067e2475ccbd8e57a8c.css?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/application-77079be14da08d17a22bcab14f056e7d.css?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:53:08 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:57:36 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1422ms (Views: 1422.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-14a1b2a467c8f437d18a1f23cc255c72.css?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/application-06e5064b85e14da98fc6722fe7a80cca.css?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:57:38 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 14:58:29 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1412ms (Views: 1411.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-16bf519fb7f93d8a5a5d481dbf1e185e.css?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/application-63a81535d44142d33abad193f4864eec.css?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 14:58:31 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:00:12 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1418ms (Views: 1417.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:00:13 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 42ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:43 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:01:44 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 52ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:45 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 51ms (Views: 50.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/custom-541264f4136d54ce7add852a7887d5cc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/application-f36ec6e41c3ec958117d16bc92791bbc.css?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:01:46 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:02:32 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 28ms
+
+ActionView::Template::Error (Invalid CSS after "	width 300px": expected "{", was ";"
+  (in /home/andy/Desktop/ProyectoRH/app/assets/stylesheets/custom.css.scss:87)):
+    2: <html>
+    3:   <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5:     <%= stylesheet_link_tag 'application', media: 'all',
+    6:                                            'data-turbolinks-track' => true %>
+    7:     <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    8:     <%= csrf_meta_tags %>
+  app/assets/stylesheets/custom.css.scss:87
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__2258915560286645196_69886854751320'
+
+
+  Rendered /home/andy/.rvm/gems/ruby-2.2.0@Gems/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (4.9ms)
+  Rendered /home/andy/.rvm/gems/ruby-2.2.0@Gems/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /home/andy/.rvm/gems/ruby-2.2.0@Gems/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.5ms)
+  Rendered /home/andy/.rvm/gems/ruby-2.2.0@Gems/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.5ms)
+  Rendered /home/andy/.rvm/gems/ruby-2.2.0@Gems/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (19.3ms)
+
+
+Started PUT "/console/repl_sessions/d5ccdccd87ac7104471b235fb8ee0c8c" for 127.0.0.1 at 2015-01-09 15:02:52 -0600
+
+
+Started PUT "/console/repl_sessions/d5ccdccd87ac7104471b235fb8ee0c8c" for 127.0.0.1 at 2015-01-09 15:02:55 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 15:03:00 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1451ms (Views: 1450.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-abd5aba2bcbe0e673ac1c300eb73b5b4.css?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/application-5e30b5938d0140f574e8af37d3afdf22.css?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 15:03:02 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:08:01 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1453ms (Views: 1452.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-b781f2eb21218f771d887f59aa8db145.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/application-cdf8dc281ca500f1a89e601080c12713.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:02 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:08:25 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1509ms (Views: 1508.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-f73aad206c836cd7a7d2b610843a2611.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/application-9446765e5bb62934c110eabce625f2e7.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:08:27 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:10:31 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1385ms (Views: 1385.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-69741933bac0d6ea411bfcd06f3d12de.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/application-8f35b2e25cd07c62c17e025953c6e9ee.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:32 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:10:46 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1516ms (Views: 1515.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-e4c8d3c0dd2bc1617c1c556524bde1dc.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/application-0e9dcc0c3a1a169550e47eb5d18f9a4e.css?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:10:48 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:12:58 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1390ms (Views: 1389.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-744739c8bb329fe9f2e5b79e2824825f.css?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/application-6f354d540ac980ded395757bec3b55a1.css?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:12:59 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:13:13 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1456ms (Views: 1455.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:13:14 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:26 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:15:58 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 27ms (Views: 26.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:14 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:16 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:17 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 32ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:37 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 30ms (Views: 30.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:16:48 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:17:11 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 27ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:40 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:24:46 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 34ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:24:47 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:25:21 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:26:24 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-6ddef3a494c0b1fac2e82d70da32ccfa.css?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/application-3fa1612f5723227514ff4627fa2cf1a7.css?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:36:44 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:37:12 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1440ms (Views: 1439.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:37:13 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 40ms (Views: 39.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:32 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 30ms (Views: 29.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:34 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:38:35 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:40:33 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:41:44 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:42:14 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:43:18 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:44:46 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:44:47 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 32ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:45:04 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 43ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-77b30017bbdfb4cab6c0009f7b7b9463.css?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/application-922a978efb7ea1619fd8a04125365f33.css?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:48:05 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:50:22 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1434ms (Views: 1433.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-7b2fdf1b35eae3ce1abfdc157f33f50b.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/application-ab2aac5c72842010a2db45ccfba0634d.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 28ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/application-ab2aac5c72842010a2db45ccfba0634d.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/custom-7b2fdf1b35eae3ce1abfdc157f33f50b.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:23 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 28ms (Views: 28.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/custom-7b2fdf1b35eae3ce1abfdc157f33f50b.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/application-ab2aac5c72842010a2db45ccfba0634d.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:26 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:50:31 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1425ms (Views: 1424.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-e8ac560ebf5029e9a95da4368e710daf.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/application-f57622efd310792afa816e940eb4efee.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 46ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-e8ac560ebf5029e9a95da4368e710daf.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/application-f57622efd310792afa816e940eb4efee.css?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:50:33 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:51:53 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1501ms (Views: 1501.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-f9c5abda7b1796e2f250d095d277c9b4.css?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/application-10a3c0a27233c47525d2ee5f39d343d1.css?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:51:55 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:11 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1367ms (Views: 1366.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-69a027d8e83857dfc28afbce18efc672.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/application-340696e9a0ebd76610634c259ca78fd2.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:12 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:19 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1482ms (Views: 1481.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-19d23808820b6e9e6452e2de8e6b1a9c.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/application-c1c8eedec9e23f8ec92107c765129eb6.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:21 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:40 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1420ms (Views: 1419.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/custom-7e5b5c3b3cdb8cca3149e3600c0c2fb1.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/application-7caed7b9b582afe4c347fb56c02361f5.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:42 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 28ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-7e5b5c3b3cdb8cca3149e3600c0c2fb1.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/application-7caed7b9b582afe4c347fb56c02361f5.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:43 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 28ms (Views: 27.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-7e5b5c3b3cdb8cca3149e3600c0c2fb1.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/application-7caed7b9b582afe4c347fb56c02361f5.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:44 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 27ms (Views: 27.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-7e5b5c3b3cdb8cca3149e3600c0c2fb1.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/application-7caed7b9b582afe4c347fb56c02361f5.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:45 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 29ms (Views: 28.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/custom-7e5b5c3b3cdb8cca3149e3600c0c2fb1.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/application-7caed7b9b582afe4c347fb56c02361f5.css?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:52:46 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:53:14 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1518ms (Views: 1517.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-5ea263c106c7b2912be75c7ca8a17297.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/application-50f756255d4f6985d35b526fcd1f6d94.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:15 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:53:46 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1369ms (Views: 1368.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-74434d847ca6215658de3a9885c64cfc.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/application-615f9223b2aabc1b9c60da030327bada.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:53:48 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:54:07 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 1421ms (Views: 1420.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-aed208f1b17bd4ace9e19b4dcff6a036.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/application-e6f53d9e676c24f1702de2b37c073e41.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:09 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:54:27 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 1506ms (Views: 1505.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom-fcf9b44c3af4dcd61a3c9b62e187a8ae.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/application-9abc3d98e8be0ba8fc74c6dc59303431.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:54:29 -0600
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+Processing by StaticPagesController#login as HTML
+  Rendered static_pages/login.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 42ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages-069e88c06b889877799890854d7f4c40.css?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/custom-fcf9b44c3af4dcd61a3c9b62e187a8ae.css?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/application-9abc3d98e8be0ba8fc74c6dc59303431.css?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/static_pages-8f6eecd1178ef85964369ec66d33c4f1.js?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/jquery-eb3e278249152b5b5d5170b73d9dbf52.js?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/jquery_ujs-0b8f09cf5aec4ba1be1abd9f915c77e2.js?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/turbolinks-924184401b7d116eadaaefc96895fa84.js?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
+
+
+Started GET "/assets/application-9d71a2f6dda6b569ca80f60714aabe8b.js?body=1" for 127.0.0.1 at 2015-01-09 16:57:50 -0600
